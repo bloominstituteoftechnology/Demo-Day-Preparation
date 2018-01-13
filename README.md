@@ -47,7 +47,7 @@ _Demo feature, describing how it contributes to the user experience, why it’s 
 > With more time, I would continue to improve this part of the project by [one to three sentences how you’d improve the part you’re talking about].
 
 **Student 1**
-Well! That's our project. Thank you for taking the time to watch our demo.
+> Well! That's our project. Thank you for taking the time to watch our demo.
 
 ### Personal Projects
 While the focus of Demo Day is primarily on group capstone projects, we have time to feature high quality individual projects. These may be things you built in your own time, during the hackathon, or otherwise contributed to while at Lambda School.
