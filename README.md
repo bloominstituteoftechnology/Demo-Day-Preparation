@@ -2,7 +2,7 @@
 
 ### Video requirements:
 * 3-4 minutes.
-* Approved by Lambda Staff by end of day prior to demo day.
+* Approved by Lambda Staff by 4:00PM PST day prior to demo day.
 
 ### Recommendations
 * Introduce the product, or your portion of the presentation with a live recording of yourself, then transition to the demo.
