@@ -1,4 +1,5 @@
-# CS1 Demo Day Presentation Requirements
+# Lambda School Demo Day Presentation Requirements
+
 ### Video requirements:
 * 3-4 minutes.
 * Approved by Lambda Staff by end of day prior to demo day.
